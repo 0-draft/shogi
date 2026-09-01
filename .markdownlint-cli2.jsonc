@@ -1,0 +1,28 @@
+{
+  // Self-contained on purpose: this is a public repo, so it must not point at
+  // an absolute path in anyone's home directory.
+  "config": {
+    "default": true,
+    "MD013": false,
+    "MD024": false,
+    "MD036": false,
+    "MD041": false,
+    "MD060": false,
+    // One kind of raw HTML lives in README.md and nothing else does: the board
+    // between the SHOGI:START/END markers, written by .github/workflows/shogi.yml
+    // via scripts/shogi.py. It is a/img inside a pre, wrapped in a div, with p
+    // for the lines above and below it. One rank per line inside the pre: a
+    // table puts padding and a border around every square, and pre is the only
+    // element whose white-space survives, which is what stops a rank from
+    // wrapping and breaking the board on a phone.
+    "MD033": {
+      "allowed_elements": [
+        "img",
+        "pre",
+        "div",
+        "p",
+        "a"
+      ]
+    }
+  }
+}
