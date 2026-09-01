@@ -82,10 +82,10 @@
    "sB",
    "",
    "",
-   "",
-   "",
-   "",
    "sR",
+   "",
+   "",
+   "",
    ""
   ],
   [
@@ -104,18 +104,19 @@
   "s": {},
   "g": {}
  },
- "turn": "s",
- "selected": "2h",
+ "turn": "g",
+ "selected": null,
  "pending": null,
  "status": "playing",
  "winner": null,
  "reason": null,
- "last": "S-6b",
+ "last": "R-5h",
  "moves": [
   "P-7f",
   "P-8d",
   "N-7g",
-  "S-6b"
+  "S-6b",
+  "R-5h"
  ],
  "games": 0,
  "record": {
