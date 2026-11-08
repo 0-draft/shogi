@@ -1,5 +1,8 @@
 # Shogi
 
+> [!WARNING]
+> **Retired on 2026-11-08, to be archived on or after 2026-12-08.** No one outside the author ever played it since launch. New moves are no longer played, and the board below is frozen.
+
 Shogi against whoever else turns up, played on GitHub. Nothing to install, and no account beyond the one you already have: every move is an issue, and the board is this file.
 
 <!-- SHOGI:START -->
