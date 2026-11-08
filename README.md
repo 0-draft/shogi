@@ -1,7 +1,7 @@
 # Shogi
 
 > [!WARNING]
-> **Retired on 2026-11-08, to be archived on or after 2026-12-08.** Nobody but the author has ever played it. Its workflow is disabled, so a move opened as an issue is no longer played and the board below is frozen.
+> **Retired on 2026-11-08, archived on 2026-11-08.** Nobody but the author has ever played it. Its workflow is disabled, so a move opened as an issue is no longer played and the board below is frozen.
 
 Shogi against whoever else turns up, played on GitHub. Nothing to install, and no account beyond the one you already have: every move is an issue, and the board is this file.
 
